@@ -1,3 +1,15 @@
+---
+title: **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent
+type: content
+status: archived
+target: 30-content/prompts
+---
+
+## 项目档案（2026-09-24 调研）
+- 第三方AI编程工具提示词合集（Cursor/Devin等11家）。
+- 只读参考，无自有演进。
+- 状态：archived。
+
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
 (All the published system prompts are extracted by myself, except the already open sourced ones and Manus)
